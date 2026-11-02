@@ -1,0 +1,11 @@
+[package]
+name = "lattice-tally"
+version = "0.1.0"
+edition = "2024"
+license-file = "LICENSE"
+[dependencies]
+sha2 = "0.10"
+rand = "0.8"
+
+[dev-dependencies]
+base64 = "0.22"
